@@ -1,0 +1,22 @@
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.csproj.CoreCompileInputs.cache
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.AssemblyInfoInputs.cache
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.AssemblyInfo.cs
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.deps.json
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.dll
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.pdb
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\Naturalartdata2.0.dll
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\Naturalartdata2.0.pdb
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.csprojResolveAssemblyReference.cache
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.dll
+C:\Users\abirami.seeni\documents\visual studio 2017\Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.pdb
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.deps.json
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.dll
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\NaturalArtServices.pdb
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\Naturalartdata2.0.dll
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\bin\Debug\netcoreapp1.1\Naturalartdata2.0.pdb
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.csprojResolveAssemblyReference.cache
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.csproj.CoreCompileInputs.cache
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.AssemblyInfoInputs.cache
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.AssemblyInfo.cs
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.dll
+D:\visualstudio2017 Projects\Naturalart2.0\NaturalArtServices\obj\Debug\netcoreapp1.1\NaturalArtServices.pdb

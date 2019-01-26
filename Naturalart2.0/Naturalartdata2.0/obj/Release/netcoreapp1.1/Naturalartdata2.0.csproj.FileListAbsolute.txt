@@ -1,0 +1,9 @@
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\bin\Release\netcoreapp1.1\Naturalartdata2.0.deps.json
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\bin\Release\netcoreapp1.1\Naturalartdata2.0.dll
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\bin\Release\netcoreapp1.1\Naturalartdata2.0.pdb
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.csprojResolveAssemblyReference.cache
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.csproj.CoreCompileInputs.cache
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.AssemblyInfoInputs.cache
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.AssemblyInfo.cs
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.dll
+D:\visualstudio2017 Projects\Naturalart2.0\Naturalartdata2.0\obj\Release\netcoreapp1.1\Naturalartdata2.0.pdb
